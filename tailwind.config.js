@@ -10,6 +10,10 @@ module.exports = {
         "neutral-desaturated-blue": "hsl(224, 23%, 55%)",
         "neutral-dark-blue": "hsl(223, 47%, 23%)",
       },
+      backgroundImage: {
+        "background-desktop": "url('/pattern-background-desktop.svg')",
+        "background-mobile": "url('/pattern-background-mobile.svg')",
+      },
     },
   },
   variants: {
