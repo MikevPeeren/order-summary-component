@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Order Summary Component</title>
         <meta name="description" content="Order Summary Component" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon-32x32.png" />
       </Head>
 
       <main></main>
