@@ -10,12 +10,10 @@ body {
   @apply text-base;
   @apply bg-primary-pale-blue;
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 767px) {
     background-image: url("../public/pattern-background-mobile.svg");
     background-repeat: no-repeat, repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
+    background-size: 100%;
     z-index: 0;
   }
 
