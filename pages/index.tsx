@@ -1,6 +1,7 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
+import OrderComponent from "../src/components/OrderComponent";
 
 const Home: NextPage = () => {
   return (
@@ -11,8 +12,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
 
-      <main className="">
-        <div></div>
+      <main>
+        <div className="h-screen w-screen flex items-center justify-center z-10">
+          <OrderComponent />
+        </div>
       </main>
 
       <footer></footer>
