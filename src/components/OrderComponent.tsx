@@ -2,6 +2,8 @@ import Image from "next/image";
 
 import ILLUSTRATION_HERO from "../../public/illustration-hero.svg";
 
+import AnnualComponent from "./AnnualComponent";
+
 const OrderComponent = () => {
   return (
     <div className="h-3/4 w-1/4 bg-white flex flex-col items-center justify-between text-center rounded-2xl pb-14 shadow-lg">
@@ -15,7 +17,7 @@ const OrderComponent = () => {
         You can now listen to millions of songs, audiobooks, and podcasts on any
         device anywhere you like!
       </h2>
-      <div>ANNUAL PLAN</div>
+      <AnnualComponent />
       <button
         className="w-3/4 bg-primary-bright-blue hover:neutral-dark-blue text-white font-bold py-4 px-4 rounded-2xl shadow-lg"
         type="button"
