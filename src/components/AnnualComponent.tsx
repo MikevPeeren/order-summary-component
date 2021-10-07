@@ -15,7 +15,7 @@ const AnnualComponent = () => {
         </span>
       </div>
       <a
-        className="text-sm md:text-base order-2 ml-auto underline hover:no-underline text-primary-bright-blue font-black"
+        className="text-sm md:text-base order-2 ml-auto underline hover:no-underline hover:text-opacity-40 text-primary-bright-blue font-black"
         href="#"
       >
         Change
