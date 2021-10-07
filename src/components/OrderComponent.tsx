@@ -20,7 +20,7 @@ const OrderComponent = () => {
         />
       </div>
       <h1 className="text-2xl md:text-3xl font-black my-2">Order Summary</h1>
-      <h2 className="w-4/5 md:w-3/4 mx-4 my-4 font-medium text-neutral-desaturated-blue">
+      <h2 className="w-4/5 md:w-3/4 mx-4 my-4 font-bold text-neutral-desaturated-blue">
         You can now listen to millions of songs, audiobooks, and podcasts on any
         device anywhere you like!
       </h2>

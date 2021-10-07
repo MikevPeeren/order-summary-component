@@ -7,9 +7,9 @@ const AnnualComponent = () => {
     <div className="flex flex-row items-center w-10/12 md:w-3/4 bg-neutral-pale-blue p-5 rounded-xl ">
       <Image src={MUSIC_ICON} alt="Music Icon" />
       <div className="flex flex-col px-4">
-        <span className="text-black text-sm md:text-lg font-black">
+        <h1 className="text-black text-sm md:text-lg font-black">
           Annual Plan
-        </span>
+        </h1>
         <span className="text-neutral-desaturated-blue font-bold text-sm md:text-base text-left">
           $59.99/year
         </span>
