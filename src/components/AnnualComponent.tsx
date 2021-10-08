@@ -5,7 +5,13 @@ import MUSIC_ICON from "../../public/icon-music.svg";
 const AnnualComponent = () => {
   return (
     <div className="flex flex-row items-center w-10/12 md:w-3/4 bg-neutral-pale-blue p-5 rounded-xl ">
-      <Image src={MUSIC_ICON} alt="Music Icon" />
+      <Image
+        src={MUSIC_ICON}
+        alt="Music Icon"
+        priority
+        placeholder="blur"
+        blurDataURL="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOUFJOsBwABYQDJy8FxnwAAAABJRU5ErkJggg=="
+      />
       <div className="flex flex-col px-4">
         <h1 className="text-black text-sm md:text-lg font-black">
           Annual Plan

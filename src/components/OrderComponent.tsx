@@ -17,6 +17,9 @@ const OrderComponent = () => {
           src={ILLUSTRATION_HERO}
           alt="Illustration of Hero"
           layout="responsive"
+          priority
+          placeholder="blur"
+          blurDataURL="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOUFJOsBwABYQDJy8FxnwAAAABJRU5ErkJggg=="
         />
       </div>
       <h1 className="text-2xl md:text-3xl font-black my-2">Order Summary</h1>
