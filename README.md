@@ -24,6 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1786" alt="Screenshot 2021-10-08 at 14 28 39" src="https://user-images.githubusercontent.com/15649037/136556855-40aef36f-7d7d-44f0-9b91-459d3c4305b7.png">
+
 ### Links
 
 - Solution URL: [Solution](https://order-summary-component-two-tawny.vercel.app/)
