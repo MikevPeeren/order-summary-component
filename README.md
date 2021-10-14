@@ -54,6 +54,6 @@ I have learned some more knowledge in SASS in relation to responsive design.
 
 ## Author
 
-- Website - [Mike van Peeren(https://mikevpeeren.nl/)
+- Website - [Mike van Peeren](https://mikevpeeren.nl/)
 - Frontend Mentor - [@MikevPeeren](https://www.frontendmentor.io/profile/MikevPeeren)
 - LinkedIN - [@MikevPeeren](https://www.linkedin.com/in/mikevpeeren/)
