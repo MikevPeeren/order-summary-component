@@ -16,7 +16,7 @@
     "sass": "^1.52.3"
   },
   "devDependencies": {
-    "@types/react": "17.0.43",
+    "@types/react": "18.0.12",
     "autoprefixer": "^10.4.7",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6",
