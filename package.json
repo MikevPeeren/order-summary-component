@@ -21,7 +21,7 @@
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6",
     "husky": "^7.0.4",
-    "lint-staged": "^12.5.0",
+    "lint-staged": "^13.0.1",
     "postcss": "^8.4.14",
     "prettier": "^2.7.0",
     "tailwindcss": "^2.2.19",
