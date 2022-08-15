@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/react": "18.0.17",
     "autoprefixer": "^10.4.8",
-    "eslint": "8.21.0",
+    "eslint": "8.22.0",
     "eslint-config-next": "12.2.5",
     "husky": "^7.0.4",
     "lint-staged": "^12.5.0",
